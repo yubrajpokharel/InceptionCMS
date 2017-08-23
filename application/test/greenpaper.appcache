@@ -1,0 +1,19 @@
+CACHE MANIFEST
+
+/assets/bower_components/material-design-lite/material.min.css
+https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+/assets/css/material.teal-blue.min.css
+/assets/css/style.css
+/assets/css/flexslider.css
+/assets/bower_components/lightbox2/dist/css/lightbox.css
+/assets/jquery_news_ticker/styles/ticker-style.css
+/assets/images/logo.jpg
+
+
+https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js
+http://www.getmdl.io/material.min.js
+/assets/jquery_news_ticker/includes/jquery.ticker.js
+/assets/jquery_news_ticker/includes/site.js
+
+/assets/images/logo.jpg
+
