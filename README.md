@@ -17,6 +17,9 @@ Adds
   - Bottom Add
 
 demoURL:: http://yubrajpokharel.com/samples/newsportal/
+
 loginLink:: http://yubrajpokharel.com/samples/newsportal/login
+
 userName:: admin@admin.com
+
 password:: admin
